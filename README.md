@@ -6,7 +6,7 @@ Este programa está basado en dos historias de usuario, la primera es para gener
 
 --Instrucciones para ejecutar este programa--
 
-1. Estando dentro de la carpeta del proyecto instalar la librería yargs de la forma npm install yargs
+1. Estando dentro de la carpeta del proyecto instalar la librería yargs de la forma npm install yargs y el express de la forma npm install express
 2. Si desea ver el listado de cursos solo ejecute el comando node trámites
 3. Si desea ver el listado de cursos con intervalo de tiempo en la impresión escriba el comando node trámites listar
 4. Si desea inscribirse a alguno de los cursos debe ingresar el comando node trámites inscribir -n nombre -i idCurso -c cédula.
